@@ -8,7 +8,8 @@ Embed Bluesky links in Discord.
 
 ## How To Use?
 
-#### Simply append `x` at the end of `bsky.app`.
+#### Simply append `x` at the end of `bsky` in `bsky.app`.
+_or you can post the link in Discord and type `s/y/yx`_
 
 ## Authors
 
